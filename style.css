@@ -1,0 +1,60 @@
+.container{
+    border:1px solid black;
+    height: 500px;
+    width: 500px;
+}
+.face
+{
+    border-radius: 50%;
+    border: 1px solid black;
+    width: 450px; 
+    height:350 px;
+    margin-top: 6%;
+    
+    background-color:yellow;
+}
+.eyel
+{
+    border-radius: 50%;
+    border: 1px solid black;
+    width: 60px; 
+    height: 60px;
+    margin-top: 80px;
+    margin-left: -150px;
+    background-color: white;
+}
+.eyer{
+    border:1px solid black;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin-top: -60px;
+    margin-left: 150px;
+    background-color: white;
+}
+.ret{
+    border:1px solid black;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    margin-top: 20px;
+    background-color: black;
+    
+}
+.mouth{
+    border:1px solid black;
+    height: 200px;
+    width: 200px;
+    border-radius: 0px 0px 60px 60px;
+    margin-top: 50%;
+    background-color: pink;
+}
+.toung
+{
+    border:1px solid black;
+    height: 50px;
+    width: 100px;
+    margin-top: 30px;
+    border-radius: 60px 60px 0px 0px;
+    background-color: red
+}
